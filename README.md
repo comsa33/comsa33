@@ -2,6 +2,7 @@
 
 **AI Developer** building intelligent systems with LLMs and modern infrastructure.
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4701--1967-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-4701-1967)
 [![Portfolio](https://img.shields.io/badge/Portfolio-po24lio.com-00F0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://po24lio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ruo--lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruo-lee-79864522a/)
 [![Email](https://img.shields.io/badge/Email-comsa333@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comsa333@gmail.com)
