@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruo
 
-**AI Developer** building intelligent systems with LLMs and modern infrastructure.
+I build **LLM agent platforms and the runtime/infrastructure that runs them** — and occasionally turn that work into research.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4701--1967-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-4701-1967)
 [![Portfolio](https://img.shields.io/badge/Portfolio-po24lio.com-00F0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://po24lio.com)
@@ -9,31 +9,27 @@
 
 ## 💼 Currently
 
-**AI Developer** @ Posicube (AI Dev Team 1)  
-Building AI agent platforms and solving real-world problems with LLMs.
+**AI Developer @ Posicube** — building agent platforms and the backend that keeps them running.
+Also a PhD student in AI Engineering at aSSIST, focusing on retrieval-augmented agents.
 
 ## 🔧 Tech Stack
 
-### Backend & Infrastructure
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Backend & Infra** — Python · FastAPI · Redis · Docker · Kubernetes
+**AI & LLM** — LLM Agents · RAG Pipelines · LangChain · OpenAI
+**System Design** — Async/Await · WebSocket · Multiprocessing · Distributed Systems
 
-### AI & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+## 📄 Research
 
-### System Design
-![Async](https://img.shields.io/badge/Async/Await-000000?style=for-the-badge&logo=python&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Multiprocessing](https://img.shields.io/badge/Multiprocessing-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+- **TARA** — Tool-Augmented Retrieval Agents for Self-Corrective RAG *(under review, Knowledge-Based Systems)*
+- **Patent** KR102721044B1 — job-seeker–company matching model
+- More on [ORCID](https://orcid.org/0009-0005-4701-1967)
+
+## 🛠️ Selected Projects
+
+- **PyRunner** — distributed Python sandbox & dynamic agent runtime (FastAPI, Redis Pub/Sub)
+- **OPIc Master** — AI English-speaking practice app, live on Google Play & App Store
+- **toeic4all** — LLM-based TOEIC question generation service
 
 ---
 
-<div align="center">
-  <i>3rd-year developer passionate about AI, UX, and clean code.</i>
-</div>
-
+<sub>ISO/IEC 42001 (AI Management Systems) Auditor · based in Seoul, South Korea</sub>
