@@ -20,6 +20,7 @@ Also a PhD student in AI Engineering at aSSIST, focusing on retrieval-augmented 
 
 ## 📄 Research
 
+- **LHTT** — LLM-based Hyperparameter Tuning for Time Series Forecasting *(published, JKSQM 2025)* · [paper](https://doi.org/10.7469/JKSQM.2025.53.3.343) · [code](https://github.com/comsa33/time-series-with-auto-llm)
 - **Agent Trajectory Cluster Audit** — a multi-dataset protocol for auditing unsupervised LLM-agent trajectory clustering *(under review)* · [code](https://github.com/comsa33/agent-trajectory-cluster-audit-code) · [DOI](https://doi.org/10.5281/zenodo.20344064)
 - **TARA** — Tool-Augmented Retrieval Agents for Self-Corrective RAG *(under review)* · [code](https://github.com/comsa33/self-corrective-rag) · [DOI](https://doi.org/10.5281/zenodo.19447179)
 - **Patent** KR102721044B1 — job-seeker–company matching model
