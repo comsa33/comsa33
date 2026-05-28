@@ -20,7 +20,8 @@ Also a PhD student in AI Engineering at aSSIST, focusing on retrieval-augmented 
 
 ## 📄 Research
 
-- **TARA** — Tool-Augmented Retrieval Agents for Self-Corrective RAG *(under review, Knowledge-Based Systems)*
+- **Agent Trajectory Cluster Audit** — a multi-dataset protocol for auditing unsupervised LLM-agent trajectory clustering *(under review)* · [code](https://github.com/comsa33/agent-trajectory-cluster-audit-code) · [DOI](https://doi.org/10.5281/zenodo.20344064)
+- **TARA** — Tool-Augmented Retrieval Agents for Self-Corrective RAG *(under review)* · [code](https://github.com/comsa33/self-corrective-rag) · [DOI](https://doi.org/10.5281/zenodo.19447179)
 - **Patent** KR102721044B1 — job-seeker–company matching model
 - More on [ORCID](https://orcid.org/0009-0005-4701-1967)
 
