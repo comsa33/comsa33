@@ -28,8 +28,9 @@ Also a PhD student in AI Engineering at aSSIST, focusing on retrieval-augmented 
 ## 🛠️ Selected Projects
 
 - **PyRunner** — distributed Python sandbox & dynamic agent runtime (FastAPI, Redis Pub/Sub)
-- **OPIc Master** — AI English-speaking practice app, live on Google Play & App Store
-- **toeic4all** — LLM-based TOEIC question generation service
+- **OPIc Master** — AI-powered OPIc speaking practice app · [site](https://opic.po24lio.com)
+- **Square Messenger** — privacy-first social messenger with SHA-256 contact hashing · [site](https://square.po24lio.com)
+- **Easy English Grammar** (진짜 쉬운 영문법) — grammar practice app for TOEIC/TOEFL & conversation · [Google Play](https://play.google.com/store/apps/details?id=com.ruiboss.englishgrammar) · [App Store](https://apps.apple.com/kr/app/id6759091542)
 
 ---
 
